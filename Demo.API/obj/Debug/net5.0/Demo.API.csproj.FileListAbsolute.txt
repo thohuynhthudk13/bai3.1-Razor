@@ -1,0 +1,12 @@
+E:\hocBlazer\Demo\Demo.API\bin\Debug\net5.0\Demo.API.deps.json
+E:\hocBlazer\Demo\Demo.API\bin\Debug\net5.0\Demo.API.dll
+E:\hocBlazer\Demo\Demo.API\bin\Debug\net5.0\ref\Demo.API.dll
+E:\hocBlazer\Demo\Demo.API\bin\Debug\net5.0\Demo.API.pdb
+E:\hocBlazer\Demo\Demo.API\obj\Debug\net5.0\Demo.API.csproj.AssemblyReference.cache
+E:\hocBlazer\Demo\Demo.API\obj\Debug\net5.0\Demo.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\hocBlazer\Demo\Demo.API\obj\Debug\net5.0\Demo.API.AssemblyInfoInputs.cache
+E:\hocBlazer\Demo\Demo.API\obj\Debug\net5.0\Demo.API.AssemblyInfo.cs
+E:\hocBlazer\Demo\Demo.API\obj\Debug\net5.0\Demo.API.csproj.CoreCompileInputs.cache
+E:\hocBlazer\Demo\Demo.API\obj\Debug\net5.0\Demo.API.dll
+E:\hocBlazer\Demo\Demo.API\obj\Debug\net5.0\ref\Demo.API.dll
+E:\hocBlazer\Demo\Demo.API\obj\Debug\net5.0\Demo.API.pdb

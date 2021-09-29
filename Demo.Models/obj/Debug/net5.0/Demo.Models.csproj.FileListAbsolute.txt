@@ -1,0 +1,12 @@
+E:\hocBlazer\Demo\Demo.Models\bin\Debug\net5.0\Demo.Models.deps.json
+E:\hocBlazer\Demo\Demo.Models\bin\Debug\net5.0\Demo.Models.dll
+E:\hocBlazer\Demo\Demo.Models\bin\Debug\net5.0\ref\Demo.Models.dll
+E:\hocBlazer\Demo\Demo.Models\bin\Debug\net5.0\Demo.Models.pdb
+E:\hocBlazer\Demo\Demo.Models\obj\Debug\net5.0\Demo.Models.csproj.AssemblyReference.cache
+E:\hocBlazer\Demo\Demo.Models\obj\Debug\net5.0\Demo.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\hocBlazer\Demo\Demo.Models\obj\Debug\net5.0\Demo.Models.AssemblyInfoInputs.cache
+E:\hocBlazer\Demo\Demo.Models\obj\Debug\net5.0\Demo.Models.AssemblyInfo.cs
+E:\hocBlazer\Demo\Demo.Models\obj\Debug\net5.0\Demo.Models.csproj.CoreCompileInputs.cache
+E:\hocBlazer\Demo\Demo.Models\obj\Debug\net5.0\Demo.Models.dll
+E:\hocBlazer\Demo\Demo.Models\obj\Debug\net5.0\ref\Demo.Models.dll
+E:\hocBlazer\Demo\Demo.Models\obj\Debug\net5.0\Demo.Models.pdb
